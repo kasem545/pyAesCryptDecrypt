@@ -16,4 +16,4 @@ pip install -r requirements
 ```
 
 ```bash
-python3 pyAesCryptDecrypt.py --aesfile secret.aes --wordlist rockyou.txt
+python3 pyAesDecrypt.py --aesfile secret.aes --wordlist rockyou.txt
