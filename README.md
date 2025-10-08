@@ -1,4 +1,4 @@
-# 🔐 pyAesCryptDecrypt
+# 🔐 pyAesDecrypt
 
 A simple and efficient AES-256 brute-force tool using `pyAesCrypt` and a wordlist (supports `.gz`).
 
